@@ -1,7 +1,6 @@
 /**
 ***
 ***Name - Brian Tran
-***NetId - BXT190005
 ***Date - 8/20/2020
 ***
 **/
